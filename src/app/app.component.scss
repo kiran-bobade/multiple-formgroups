@@ -1,0 +1,16 @@
+small {
+    color: red;
+}
+
+input.ng-invalid.ng-dirty,
+input.ng-invalid.ng-touched,
+select.ng-invalid.ng-dirty,
+select.ng-invalid.ng-touched {
+    border: solid 1px red;
+}
+
+.card-footer {
+    button {
+        margin: 0 5px;
+    }
+}
